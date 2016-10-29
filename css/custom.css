@@ -1,0 +1,21 @@
+/* MY CUSTOM STYLES BY FREDDYFISH */
+
+/* STICK FOOTER TO BOTTOM */
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+  
+/* CUSTOM FOOTER */
+footer {
+  background: #D32F2F;
+  color: white;
+}
+.footer {
+  padding: 20px;
+}
