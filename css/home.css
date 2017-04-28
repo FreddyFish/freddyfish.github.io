@@ -1,5 +1,5 @@
 body {
-  padding-top: 150px;
+  padding-top: 55px;
   padding-bottom: 40px;
   text-align: center;
 }
@@ -18,6 +18,13 @@ body {
   padding-bottom: 0px;
   font-family: 'Josefin Sans', sans-serif;
 }
+ h4 {
+  color: white;
+  padding-bottom: 0px;
+    font-size: 1.1em;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 
 /* Formating and animation for profile links */
 ul {
