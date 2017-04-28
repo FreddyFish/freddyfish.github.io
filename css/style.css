@@ -120,6 +120,14 @@ body {
     left: 120%;
   }
 }
+.cloud-0 {
+  -webkit-animation-duration: 95s;
+  -moz-animation-duration: 95s;
+  -ms-animation-duration: 95s;
+  -o-animation-duration: 95s;
+  animation-duration: 95s;
+  margin-left: 85%;
+}
 .cloud-1 {
   -webkit-animation-duration: 263s;
   -moz-animation-duration: 263s;
